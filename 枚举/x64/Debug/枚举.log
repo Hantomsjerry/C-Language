@@ -1,0 +1,3 @@
+﻿  enum.c
+D:\C Language\枚举\enum.c(25,12): warning C4101: “year”: 未引用的局部变量
+  枚举.vcxproj -> D:\C Language\位域\x64\Debug\枚举.exe

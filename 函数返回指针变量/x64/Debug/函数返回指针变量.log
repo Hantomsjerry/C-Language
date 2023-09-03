@@ -1,0 +1,4 @@
+﻿  函数返回指针变量.cpp
+D:\C Language\函数返回指针变量\函数返回指针变量.cpp(9,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\C Language\函数返回指针变量\函数返回指针变量.cpp(19,6): warning C4101: “array”: 未引用的局部变量
+  函数返回指针变量.vcxproj -> D:\C Language\Pointer(8.23)\x64\Debug\函数返回指针变量.exe
